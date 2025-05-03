@@ -10,10 +10,10 @@
 * [Licença](#licença)
 
 # DESENVOLVEDORES DO PROJETO
-* [André Mota]()
+* [André Mota](https://github.com/Echolord256)
 * [Gabriel Araújo](https://github.com/Gabriel-SL-Araujo)
-* [Ana Pellegrino]()
-* [Arthur Uchôa]()
+* [Ana Pellegrino](https://github.com/anabiapellegrino)
+* [Arthur Uchôa](https://github.com/Shirookkj)
 * [Pedro Mendes](https://github.com/PedroMendesMacedo)
 
 # LICENÇA
