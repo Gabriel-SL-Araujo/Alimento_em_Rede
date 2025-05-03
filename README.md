@@ -14,4 +14,7 @@
 * [Gabriel Araújo](https://github.com/Gabriel-SL-Araujo)
 * [Ana Pellegrino]()
 * [Arthur Uchôa]()
-* [Pedro Mendes]()
+* [Pedro Mendes](https://github.com/PedroMendesMacedo)
+
+# LICENÇA
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
