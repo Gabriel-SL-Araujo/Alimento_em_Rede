@@ -21,4 +21,4 @@ Alimento em Rede é um projeto que está em desenvolvimento durante o exercício
 * [Pedro Mendes](https://github.com/PedroMendesMacedo)
 
 # LICENÇA
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
