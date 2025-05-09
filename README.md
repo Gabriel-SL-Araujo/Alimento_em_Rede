@@ -16,7 +16,7 @@
 # 📋 DESCRIÇÃO DO PROJETO
 Alimento em Rede é um projeto que está em desenvolvimento durante o exercício dos desenvolvedores do projeto na disciplina de ANÁLISE E DESENVOLVIMENTO DE SOFTWARE - conteúdo fornecido pela universidade para incetivar o desenvolvimento de aplicações com atribuições de boas práticas de software para a melhor implementação, execução, análise e desenvolvimento do mesmo. No projeto mencionado, buscamos estruturar uma solução para as investiduras decorrentes da fome e da dificuldade das pessoas mais vulneráveis de obter alimento. A abordagem tomada visa atender as diversas pessoas e instituições que procuram realizar uma doação na região metropolitana do Recife e conectá-las aos cidadãos necessitados.
 
-# DESENVOLVEDORES DO PROJETO
+# 👨‍💻 DESENVOLVEDORES DO PROJETO
 * [André Mota](https://github.com/Echolord256)
 * [Gabriel Araújo](https://github.com/Gabriel-SL-Araujo)
 * [Ana Pellegrino](https://github.com/anabiapellegrino)
@@ -70,7 +70,7 @@ Parte do Backlog do projeto. O backlog específica todas as funcionalidades e re
 
 10) Como usuário, gostaria de contatar a plataforma.
 
-# 🎥 Vídeo do Protótipo
+# 🎥 VÍDEO DO PROTÓTIPO
 O vídeo a seguir apresenta uma demonstração do protótipo desenvolvido na primeira etapa do projeto Alimento em Rede. Esta versão inicial visa ilustrar a proposta da interface, destacando suas funcionalidades principais e a usabilidade pensada para facilitar a conexão entre doadores e instituições. O material foi elaborado com base nas diretrizes da disciplina e na proposta empregada na submissão das partes iniciais.
 
 <p align="left">
