@@ -55,6 +55,17 @@ A Parte 1 consistiu na estruturação do protótipo utilizando a plataforma Figm
 
 10) Como usuário, gostaria de contatar a plataforma.
 
+<h3 align="center">Demonstração do Projeto</h3>
+
+
+# -> VÍDEO ILUSTRATIVO DO PROTÓTIPO DO FIGMA
+<p align="center">
+  <video width="500" controls>
+    <source src="videos/Vídeo_Introducao_ao_Alimento_em_Rede.mp4" type="video/mp4">
+    Seu navegador não suporta a tag de vídeo.
+  </video>
+</p>
+
 
 # LICENÇA
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
