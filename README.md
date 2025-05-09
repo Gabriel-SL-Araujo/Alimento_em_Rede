@@ -10,6 +10,7 @@
 * [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
 * [Organização e Disposição de Informações do Projeto](#organização-e-disposição-de-informações-do-projeto)
 * [Quadro de Atividades no Trello](#quadro-de-atividades-no-trello)
+* [Vídeo do Protótipo](#video-do-prototipo)
 * [Licença](#licença)
 
 # DESCRIÇÃO DO PROJETO
