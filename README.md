@@ -20,5 +20,10 @@ Alimento em Rede é um projeto que está em desenvolvimento durante o exercício
 * [Artur Uchôa](https://github.com/Shirookkj)
 * [Pedro Mendes](https://github.com/PedroMendesMacedo)
 
+### ORGANIZAÇÃO E DISPOSIÇÃO DE INFORMAÇÕES DO PROJETO
+<p align="center">
+   <img src="images/Cronograma_do_Projeto.png" width="300" />
+</p>
+
 # LICENÇA
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
