@@ -21,7 +21,7 @@ Alimento em Rede é um projeto que está em desenvolvimento durante o exercício
 * [Artur Uchôa](https://github.com/Shirookkj)
 * [Pedro Mendes](https://github.com/PedroMendesMacedo)
 
-# ORGANIZAÇÃO E DISPOSIÇÃO DE INFORMAÇÕES DO PROJETO
+# ORGANIZAÇÃO E DISPOSIÇÃO DAS INFORMAÇÕES DO PROJETO
 
 ### Cronograma estabelecido pelo professor para entrega das etapas do projeto
 <p align="center">
@@ -33,6 +33,13 @@ Essa etapa requer a entrega do Kickoff que demandava apenas a estruturação do 
 
 ## -> Entrega da Parte 1
 A Parte 1 consistiu na estruturação do protótipo utilizando a plataforma Figma, escolhida por sua versatilidade, colaboração em tempo real e ampla adoção no desenvolvimento de interfaces modernas. Essa etapa permitiu a visualização inicial da proposta do sistema, facilitando ajustes de layout e experiência do usuário ainda na fase conceitual. Ademais, a criação de 10 histórias de usuários nos foi socilitada com o intuito de explorar a interação entre os atores e seu envolvimento com o nosso sistema.
+
+### -> Quadro de Atividades No Trello
+# Momento 1
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/prints_quadro_trello/print_do_quadro_1.png" width="300" />
+</p>
+Print fotografado durante a execução da finalização da Etapa 1. 
 
 ### -> Histórias de Usuário
 1) Como usuário, gostaria de poder realizar doações de alimentos e/ou cestas básicas.
