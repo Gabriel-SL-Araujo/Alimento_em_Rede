@@ -23,7 +23,7 @@ Alimento em Rede é um projeto que está em desenvolvimento durante o exercício
 
 ### ORGANIZAÇÃO E DISPOSIÇÃO DE INFORMAÇÕES DO PROJETO
 <p align="center">
-   <img src="images/Cronograma_do_Projeto.png" width="300" />
+   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/Cronograma_do_Projeto.png" width="300" />
 </p>
 
 # LICENÇA
