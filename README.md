@@ -55,8 +55,9 @@ A Parte 1 consistiu na estruturação do protótipo utilizando a plataforma Figm
 
 10) Como usuário, gostaria de contatar a plataforma.
 
-# -> VÍDEO ILUSTRATIVO DO PROTÓTIPO DO FIGMA
-🎥 [Clique aqui para assistir ao vídeo ilustrativo do protótipo](videos/Vídeo_Introducao_ao_Alimento_em_Rede.mp4)
+## 🎥 Vídeo Ilustrativo do Protótipo
+
+📂 [Clique aqui para assistir ao vídeo](https://github.com/Gabriel-SL-Araujo/Alimento_em_Rede/raw/main/videos/Vídeo_Introducao_ao_Alimento_em_Rede.mp4)
 
 
 # LICENÇA
