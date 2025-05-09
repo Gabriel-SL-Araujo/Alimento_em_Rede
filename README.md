@@ -21,9 +21,9 @@ Alimento em Rede é um projeto que está em desenvolvimento durante o exercício
 * [Artur Uchôa](https://github.com/Shirookkj)
 * [Pedro Mendes](https://github.com/PedroMendesMacedo)
 
-### ORGANIZAÇÃO E DISPOSIÇÃO DE INFORMAÇÕES DO PROJETO
+# ORGANIZAÇÃO E DISPOSIÇÃO DE INFORMAÇÕES DO PROJETO
 
-# Cronograma estabelecido pelo professor para entrega das etapas do projeto
+### Cronograma estabelecido pelo professor para entrega das etapas do projeto
 <p align="center">
    <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/Cronograma_do_Projeto.png" width="300" />
 </p>
