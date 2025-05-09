@@ -55,9 +55,6 @@ A Parte 1 consistiu na estruturação do protótipo utilizando a plataforma Figm
 
 10) Como usuário, gostaria de contatar a plataforma.
 
-<h3 align="center">Demonstração do Projeto</h3>
-
-
 # -> VÍDEO ILUSTRATIVO DO PROTÓTIPO DO FIGMA
 <p align="center">
   <video width="500" controls>
