@@ -23,25 +23,26 @@ Alimento em Rede é um projeto que está em desenvolvimento durante o exercício
 
 # ORGANIZAÇÃO E DISPOSIÇÃO DAS INFORMAÇÕES DO PROJETO
 
-### Cronograma estabelecido pelo professor para entrega das etapas do projeto
+### -> Cronograma estabelecido pelo professor para entrega das etapas do projeto
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/Cronograma_do_Projeto.png" width="300" />
+   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/prints_quadro_trello/Cronograma do Projeto.png" width="300" />
 </p>
 
 ### -> Entrega do Kickoff 
 Essa etapa requer a entrega do Kickoff que demandava apenas a estruturação do escopo do projeto, os participantes, a abordagem que tomariamos, a organização inicial do protótipo no Trello e o desenvolvimento do repositório no GitHub.
 
-## -> Entrega da Parte 1
+### -> Entrega da Parte 1
 A Parte 1 consistiu na estruturação do protótipo utilizando a plataforma Figma, escolhida por sua versatilidade, colaboração em tempo real e ampla adoção no desenvolvimento de interfaces modernas. Essa etapa permitiu a visualização inicial da proposta do sistema, facilitando ajustes de layout e experiência do usuário ainda na fase conceitual. Ademais, a criação de 10 histórias de usuários nos foi socilitada com o intuito de explorar a interação entre os atores e seu envolvimento com o nosso sistema.
 
-### -> Quadro de Atividades No Trello
-# Momento 1
+# Quadro de Atividades No Trello
+### -> Momento 1
 <p align="center">
    <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/prints_quadro_trello/print_do_quadro_1.png" width="300" />
 </p>
 Print fotografado durante a execução da finalização da Etapa 1. 
 
 ### -> Histórias de Usuário
+
 1) Como usuário, gostaria de poder realizar doações de alimentos e/ou cestas básicas.
 
 2) Como usuário, gostaria de criar uma conta na plataforma para acessar as funcionalidades disponíveis.
@@ -62,7 +63,7 @@ Print fotografado durante a execução da finalização da Etapa 1.
 
 10) Como usuário, gostaria de contatar a plataforma.
 
-## 🎥 Vídeo do Protótipo
+# 🎥 Vídeo do Protótipo
 
 <p align="left">
   <a href="https://github.com/Gabriel-SL-Araujo/Alimento_em_Rede/raw/main/videos/Vídeo_Introducao_ao_Alimento_em_Rede.mp4" download>
