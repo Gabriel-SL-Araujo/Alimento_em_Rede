@@ -22,9 +22,20 @@ Alimento em Rede é um projeto que está em desenvolvimento durante o exercício
 * [Pedro Mendes](https://github.com/PedroMendesMacedo)
 
 ### ORGANIZAÇÃO E DISPOSIÇÃO DE INFORMAÇÕES DO PROJETO
+
+# Cronograma estabelecido pelo professor para entrega das etapas do projeto
 <p align="center">
    <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/Cronograma_do_Projeto.png" width="300" />
 </p>
+
+### -> Entrega do Kickoff 
+Etapa 1 requer a entrega do Kickoff que demandava apenas a estruturação do escopo do projeto, os participantes, a abordagem que tomariamos, a organização inicial do protótipo no Trello e o desenvolvimento do repositório no GitHub.
+
+### -> Entrega da Parte 1
+A Parte 1 consistiu na estruturação do protótipo utilizando a plataforma Figma, escolhida por sua versatilidade, colaboração em tempo real e ampla adoção no desenvolvimento de interfaces modernas. Essa etapa permitiu a visualização inicial da proposta do sistema, facilitando ajustes de layout e experiência do usuário ainda na fase conceitual. Ademais, a criação de 10 histórias de usuários nos foi socilitada com o intuito de explorar a interação entre os atores e seu envolvimento com o nosso sistema.
+
+## -> Histórias de Usuário
+
 
 # LICENÇA
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
