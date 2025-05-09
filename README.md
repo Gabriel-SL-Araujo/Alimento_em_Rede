@@ -13,7 +13,7 @@
 * [Vídeo do Protótipo](#vídeo-do-protótipo)
 * [Licença](#licença)
 
-# DESCRIÇÃO DO PROJETO
+# 📋 DESCRIÇÃO DO PROJETO
 Alimento em Rede é um projeto que está em desenvolvimento durante o exercício dos desenvolvedores do projeto na disciplina de ANÁLISE E DESENVOLVIMENTO DE SOFTWARE - conteúdo fornecido pela universidade para incetivar o desenvolvimento de aplicações com atribuições de boas práticas de software para a melhor implementação, execução, análise e desenvolvimento do mesmo. No projeto mencionado, buscamos estruturar uma solução para as investiduras decorrentes da fome e da dificuldade das pessoas mais vulneráveis de obter alimento. A abordagem tomada visa atender as diversas pessoas e instituições que procuram realizar uma doação na região metropolitana do Recife e conectá-las aos cidadãos necessitados.
 
 # DESENVOLVEDORES DO PROJETO
@@ -23,7 +23,7 @@ Alimento em Rede é um projeto que está em desenvolvimento durante o exercício
 * [Artur Uchôa](https://github.com/Shirookkj)
 * [Pedro Mendes](https://github.com/PedroMendesMacedo)
 
-# ORGANIZAÇÃO E DISPOSIÇÃO DAS INFORMAÇÕES DO PROJETO
+# ⚙️ ORGANIZAÇÃO E DISPOSIÇÃO DAS INFORMAÇÕES DO PROJETO
 
 ### -> Cronograma estabelecido pelo professor para entrega das etapas do projeto
 <p align="center">
@@ -36,7 +36,7 @@ Essa etapa requer a entrega do Kickoff que demandava apenas a estruturação do 
 ### -> Entrega da Parte 1
 A Parte 1 consistiu na estruturação do protótipo utilizando a plataforma Figma, escolhida por sua versatilidade, colaboração em tempo real e ampla adoção no desenvolvimento de interfaces modernas. Essa etapa permitiu a visualização inicial da proposta do sistema, facilitando ajustes de layout e experiência do usuário ainda na fase conceitual. Ademais, a criação de 10 histórias de usuários nos foi socilitada com o intuito de explorar a interação entre os atores e seu envolvimento com o nosso sistema.
 
-# Quadro de Atividades No Trello
+# 📃 Quadro de Atividades No Trello
 
 ## -> Momentos
 
