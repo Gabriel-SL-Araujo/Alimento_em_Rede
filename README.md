@@ -47,7 +47,8 @@ A Parte 1 consistiu na estruturação do protótipo utilizando a plataforma Figm
 Print fotografado durante a execução da finalização da Etapa 1. 
 
 
-## -> Histórias de Usuário
+## -> Backlog do Projeto 
+Parte do Backlog do projeto. O backlog específica todas as funcionalidades e requisitos do software que serão implementados ao longo do desenvolvimento do projeto. Existem, as histórias de usuários, suas substacks e seus critérios de aceitação, que serão os requisitos a serem implementados de acordo com a situação escolhida e com base nos 3 C's (Cartão, Conversa e Confirmação).
 
 1) Como usuário, gostaria de poder realizar doações de alimentos e/ou cestas básicas.
 
