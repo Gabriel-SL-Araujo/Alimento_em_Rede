@@ -57,7 +57,7 @@ A Parte 1 consistiu na estruturação do protótipo utilizando a plataforma Figm
 
 ## 🎥 Vídeo do Protótipo
 
-▶️ <p align="left">
+<p align="left">
   <video width="800" controls>
     <source src="https://github.com/Gabriel-SL-Araujo/Alimento_em_Rede/blob/main/videos/V%C3%ADdeo_Introducao_ao_Alimento_em_Rede.mp4?raw=true" type="video/mp4">
     Seu navegador não suporta a tag de vídeo.
