@@ -8,6 +8,7 @@
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
+* [Organização e Disposição de Informações do Projeto](#organização-e-disposição-de-informações-do-projeto)
 * [Licença](#licença)
 
 # DESCRIÇÃO DO PROJETO
