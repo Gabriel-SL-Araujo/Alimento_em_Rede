@@ -29,12 +29,31 @@ Alimento em Rede é um projeto que está em desenvolvimento durante o exercício
 </p>
 
 ### -> Entrega do Kickoff 
-Etapa 1 requer a entrega do Kickoff que demandava apenas a estruturação do escopo do projeto, os participantes, a abordagem que tomariamos, a organização inicial do protótipo no Trello e o desenvolvimento do repositório no GitHub.
+Essa etapa requer a entrega do Kickoff que demandava apenas a estruturação do escopo do projeto, os participantes, a abordagem que tomariamos, a organização inicial do protótipo no Trello e o desenvolvimento do repositório no GitHub.
 
 ### -> Entrega da Parte 1
 A Parte 1 consistiu na estruturação do protótipo utilizando a plataforma Figma, escolhida por sua versatilidade, colaboração em tempo real e ampla adoção no desenvolvimento de interfaces modernas. Essa etapa permitiu a visualização inicial da proposta do sistema, facilitando ajustes de layout e experiência do usuário ainda na fase conceitual. Ademais, a criação de 10 histórias de usuários nos foi socilitada com o intuito de explorar a interação entre os atores e seu envolvimento com o nosso sistema.
 
 ## -> Histórias de Usuário
+1) Como usuário, gostaria de poder realizar doações de alimentos e/ou cestas básicas.
+
+2) Como usuário, gostaria de criar uma conta na plataforma para acessar as funcionalidades disponíveis.
+
+3) Como usuário, gostaria de entrar na minha conta já registrada.
+
+4) Como usuário, gostaria de editar meus dados pessoais no perfil.
+
+5) Como usuário, gostaria de registrar minha instituição na plataforma com o intuito de receber doações e divulgar as necessidades alimentares dos assistidos.
+
+6) Como usuário, gostaria de avaliar minha experiência após cada doação realizada ao compartilhar feedback sobre o processo.
+
+7) Como usuário, gostaria de saber mais sobre a plataforma e seus benefícios para com a sociedade.
+
+8) Como usuário, gostaria de poder pesquisar por instituições dentro da plataforma.
+
+9) Como usuário, gostaria de enviar uma doação para uma instituição a minha escolha.
+
+10) Como usuário, gostaria de contatar a plataforma.
 
 
 # LICENÇA
