@@ -58,8 +58,8 @@ A Parte 1 consistiu na estruturação do protótipo utilizando a plataforma Figm
 ## 🎥 Vídeo do Protótipo
 
 <p align="left">
-  <a href="https://github.com/Gabriel-SL-Araujo/Alimento_em_Rede/raw/main/videos/V%C3%ADdeo_Introducao_ao_Alimento_em_Rede.mp4" download>
-    <img src="https://github.com/Gabriel-SL-Araujo/Alimento_em_Rede/raw/main/videos/V%C3%ADdeo_Introducao_ao_Alimento_em_Rede.gif" alt="Screencast do Protótipo" width="800">
+  <a href="https://github.com/Gabriel-SL-Araujo/Alimento_em_Rede/raw/main/videos/Vídeo_Introducao_ao_Alimento_em_Rede.mp4" download>
+    <img src="https://github.com/Gabriel-SL-Araujo/Alimento_em_Rede/raw/main/videos/Vídeo_Introducao_ao_Alimento_em_Rede.mp4" alt="Screencast do Protótipo" width="800">
   </a>
 </p>
 
