@@ -70,6 +70,32 @@ Parte do Backlog do projeto. O backlog específica todas as funcionalidades e re
 
 10) Como usuário, gostaria de contatar a plataforma.
 
+## -> Alguns Storyboards
+### Storyboard 1
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/storyboards/" width="300" />
+</p>
+
+### Storyboard 2
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/prints_quadro_trello/storyboard_1.png" width="300" />
+</p>
+
+### Storyboard 3
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/prints_quadro_trello/storyboard_2.png" width="300" />
+</p>
+
+### Storyboard 4
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/prints_quadro_trello/storyboard_3.png" width="300" />
+</p>
+
+### Storyboard 5
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/prints_quadro_trello/storyboard_5.png" width="300" />
+</p>
+
 # 🎥 VÍDEO DO PROTÓTIPO
 O vídeo a seguir apresenta uma demonstração do protótipo desenvolvido na primeira etapa do projeto Alimento em Rede. Esta versão inicial visa ilustrar a proposta da interface, destacando suas funcionalidades principais e a usabilidade pensada para facilitar a conexão entre doadores e instituições. O material foi elaborado com base nas diretrizes da disciplina e na proposta empregada na submissão das partes iniciais.
 
