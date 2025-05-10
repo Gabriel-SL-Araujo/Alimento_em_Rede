@@ -14,7 +14,7 @@
 * [Licença](#licença)
 
 # 📋 DESCRIÇÃO DO PROJETO
-Alimento em Rede é um projeto que está em desenvolvimento durante o exercício dos desenvolvedores do projeto na disciplina de ANÁLISE E DESENVOLVIMENTO DE SOFTWARE - conteúdo fornecido pela universidade para incetivar o desenvolvimento de aplicações com atribuições de boas práticas de software para a melhor implementação, execução, análise e desenvolvimento do mesmo. No projeto mencionado, buscamos estruturar uma solução para as investiduras decorrentes da fome e da dificuldade das pessoas mais vulneráveis de obter alimento. A abordagem tomada visa atender as diversas pessoas e instituições que procuram realizar uma doação na região metropolitana do Recife e conectá-las aos cidadãos necessitados.
+Alimento em Rede é um projeto que está em desenvolvimento durante o exercício dos desenvolvedores do projeto na disciplina de ANÁLISE E DESENVOLVIMENTO DE SOFTWARE - conteúdo fornecido pela universidade para incetivar o desenvolvimento de aplicações com atribuições de boas práticas de software para a melhor implementação, execução, análise e desenvolvimento do mesmo. No projeto mencionado, buscamos estruturar uma solução para as investiduras decorrentes da fome e da dificuldade das pessoas mais vulneráveis de obter alimento na região metropolitana do Recife. A abordagem tomada visa atender as diversas pessoas e instituições que procuram realizar uma doação na região metropolitana do Recife e conectá-las aos cidadãos necessitados.
 
 # 👨‍💻 DESENVOLVEDORES DO PROJETO
 * [André Mota](https://github.com/Echolord256)
