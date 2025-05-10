@@ -6,11 +6,11 @@
 
 # ÍNDICE
 * [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
-* [Organização e Disposição de Informações do Projeto](#organização-e-disposição-de-informações-do-projeto)
-* [Quadro de Atividades no Trello](#quadro-de-atividades-no-trello)
-* [Vídeo do Protótipo](#vídeo-do-protótipo)
+* [Descrição do Projeto](#-descrição-do-projeto)
+* [Desenvolvedores do Projeto](#-desenvolvedores-do-projeto)
+* [Organização e Disposição de Informações do Projeto](#-organização-e-disposição-das-informações-do-projeto)
+* [Quadro de Atividades no Trello](#-quadro-de-atividades-no-trello)
+* [Vídeo do Protótipo](#-vídeo-do-protótipo)
 * [Licença](#licença)
 
 # 📋 DESCRIÇÃO DO PROJETO
