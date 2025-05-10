@@ -72,6 +72,7 @@ Parte do Backlog do projeto. O backlog específica todas as funcionalidades e re
 
 # 🎥 VÍDEO DO PROTÓTIPO
 O vídeo a seguir apresenta uma demonstração do protótipo desenvolvido na primeira etapa do projeto Alimento em Rede. Esta versão inicial visa ilustrar a proposta da interface, destacando suas funcionalidades principais e a usabilidade pensada para facilitar a conexão entre doadores e instituições. O material foi elaborado com base nas diretrizes da disciplina e na proposta empregada na submissão das partes iniciais.
+
 Obs: Clique na imagem para acessar o vídeo.
 
 <p align="center">
