@@ -71,27 +71,29 @@ Parte do Backlog do projeto. O backlog específica todas as funcionalidades e re
 10) Como usuário, gostaria de contatar a plataforma.
 
 ## -> Alguns Storyboards
-### Storyboard 1
+Em um projeto de software, o storyboard é usado para representar, de forma visual, a navegação e a interação do usuário com o sistema ou aplicativo. Ele funciona como um mapa de telas que mostra a sequência de ações, decisões e caminhos possíveis dentro da interface, ajudando a entender o fluxo de uso antes mesmo da implementação. Cada quadro geralmente inclui protótipos de telas, descrições das funcionalidades, botões clicáveis e o comportamento esperado após as interações do usuário.
+
+### -> Storyboard 1
 <p align="center">
    <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/storyboards/storyboard_1.png" width="300" />
 </p>
 
-### Storyboard 2
+### -> Storyboard 2
 <p align="center">
    <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/storyboards/storyboard_2.png" width="300" />
 </p>
 
-### Storyboard 3
+### -> Storyboard 3
 <p align="center">
    <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/storyboards/storyboard_3.png" width="300" />
 </p>
 
-### Storyboard 4
+### -> Storyboard 4
 <p align="center">
    <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/storyboards/storyboard_4.png" width="300" />
 </p>
 
-### Storyboard 5
+### -> Storyboard 5
 <p align="center">
    <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/storyboards/storyboard_5.png" width="300" />
 </p>
