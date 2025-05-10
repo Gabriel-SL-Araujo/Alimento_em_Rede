@@ -73,27 +73,27 @@ Parte do Backlog do projeto. O backlog específica todas as funcionalidades e re
 ## -> Alguns Storyboards
 ### Storyboard 1
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/storyboards/" width="300" />
+   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/storyboards/storyboard_1.png" width="300" />
 </p>
 
 ### Storyboard 2
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/prints_quadro_trello/storyboard_1.png" width="300" />
+   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/storyboards/storyboard_2.png" width="300" />
 </p>
 
 ### Storyboard 3
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/prints_quadro_trello/storyboard_2.png" width="300" />
+   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/storyboards/storyboard_3.png" width="300" />
 </p>
 
 ### Storyboard 4
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/prints_quadro_trello/storyboard_3.png" width="300" />
+   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/storyboards/storyboard_4.png" width="300" />
 </p>
 
 ### Storyboard 5
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/prints_quadro_trello/storyboard_5.png" width="300" />
+   <img src="https://raw.githubusercontent.com/Gabriel-SL-Araujo/Alimento_em_Rede/main/images/storyboards/storyboard_5.png" width="300" />
 </p>
 
 # 🎥 VÍDEO DO PROTÓTIPO
