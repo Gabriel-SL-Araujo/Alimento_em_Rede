@@ -75,7 +75,7 @@ O vídeo a seguir apresenta uma demonstração do protótipo desenvolvido na pri
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1h4O0CV2aBsHS9rfriC5dGmIbaV6EXUTI/view" target="_blank">
-    <img src="https://github.com/Gabriel-SL-Araujo/Alimento_em_Rede/raw/main/images/Cronograma_do_Projeto.png" width="500" alt="Clique para assistir ao vídeo do protótipo">
+    <img src="https://github.com/Gabriel-SL-Araujo/Alimento_em_Rede/raw/main/images/alimento_em_rede_capa_inicial.jpg" width="500" alt="Clique para assistir ao vídeo do protótipo">
   </a>
 </p>
 
