@@ -1,0 +1,266 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alimento em Rede</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+    }
+
+    header {
+      background: white;
+      padding: 20px 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      font-weight: bold;
+      font-size: 1.2rem;
+      color: #1d1d1d;
+    }
+
+    nav {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #000;
+      font-size: 14px;
+    }
+
+    .btn-login {
+      background: #000;
+      color: #fff;
+      padding: 6px 14px;
+      border-radius: 6px;
+      font-size: 14px;
+    }
+
+    .main {
+      display: flex;
+      justify-content: space-between;
+      padding: 60px 40px;
+      flex-wrap: wrap;
+    }
+
+    .user-data {
+      flex: 1;
+      min-width: 300px;
+    }
+
+    .user-data h2 {
+      font-size: 18px;
+      margin-bottom: 20px;
+    }
+
+    .field {
+      margin-bottom: 15px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .field span {
+      color: #444;
+      font-size: 14px;
+    }
+
+    .edit-button {
+      background: #eee;
+      border: none;
+      border-radius: 50%;
+      width: 24px;
+      height: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+    }
+
+    .illustration {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-width: 250px;
+    }
+
+    .illustration img {
+      max-width: 250px;
+    }
+
+    .instituicao-btn {
+      background: #8DD3F4;
+      color: white;
+      padding: 8px 16px;
+      border: none;
+      border-radius: 5px;
+      position: absolute;
+      right: 40px;
+      bottom: 180px;
+    }
+
+    footer {
+      background: #000;
+      color: white;
+      padding: 40px;
+    }
+
+    .footer-container {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+
+    .footer-section {
+      flex: 1;
+      min-width: 200px;
+      margin-bottom: 20px;
+    }
+
+    .footer-section h4 {
+      margin-bottom: 10px;
+      font-size: 16px;
+    }
+
+    .footer-section p,
+    .footer-section li {
+      font-size: 14px;
+      margin: 6px 0;
+      color: #d4d4d4;
+      list-style: none;
+    }
+
+    .social-icons {
+      margin-top: 10px;
+    }
+
+    .social-icons a {
+      margin-right: 10px;
+      display: inline-block;
+      background: #60a5fa;
+      padding: 10px;
+      border-radius: 6px;
+      color: white;
+      font-size: 18px;
+      transition: all 0.2s ease-in-out;
+    }
+
+    .social-icons a:hover {
+      background: #3b82f6;
+      transform: scale(1.1);
+    }
+
+    input.editable {
+      font-size: 14px;
+      padding: 2px 5px;
+      width: 200px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="logo">🌿 Alimento em Rede</div>
+    <nav>
+      <a href="{% url 'levar_perfil' %}">Dados</a>
+      <a href="{% url 'levar_menu' %}">Home</a>
+      <a href="{% url 'levar_sobre' %}">Sobre</a>
+      <a href="{% url 'levar_sobre' %}">Projetos</a>
+      <a href="{% url 'levar_sobre' %}">Como apoiar</a>
+      <a href="{% url 'levar_login' %}" class="btn-login">Login</a>
+    </nav>
+  </header>
+
+  <div class="main">
+    <div class="user-data">
+      <h2>Dados do usuário</h2>
+      <div class="field">
+        <span id="email-text">Email: alexalvo5@gmail.com</span>
+        <button class="edit-button" onclick="editField('email')">
+          <i class="fas fa-pencil-alt"></i>
+        </button>
+      </div>
+      <div class="field">
+        <span id="senha-text">Senha: 1234</span>
+        <button class="edit-button" onclick="editField('senha')">
+          <i class="fas fa-pencil-alt"></i>
+        </button>
+      </div>
+    </div>
+
+    <div class="illustration">
+      <img src="https://img.freepik.com/vetores-premium/icone-do-doodle-da-paz-e-da-harmonia_9206-12925.jpg?w=360" alt="Ilustração">
+    </div>
+    <button class="instituicao-btn">Instituição</button>
+  </div>
+
+  <footer>
+    <div class="footer-container">
+      <div class="footer-section">
+        <h4>Fique ligado!</h4>
+        <p>Nos acompanhe nas redes sociais.</p>
+        <div class="social-icons">
+          <a href="#"><i class="fab fa-facebook-f"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+          <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-linkedin-in"></i></a>
+        </div>
+      </div>
+      <div class="footer-section">
+        <h4>Projeto</h4>
+        <ul>
+          <li>Sobre nós</li>
+          <li>Fale conosco</li>
+          <li>Suporte</li>
+        </ul>
+      </div>
+      <div class="footer-section">
+        <h4>Termos</h4>
+        <ul>
+          <li>Termos e condições</li>
+          <li>Política de privacidade</li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function editField(type) {
+      const span = document.getElementById(`${type}-text`);
+      const currentValue = span.textContent.split(": ")[1];
+      const input = document.createElement("input");
+      input.className = "editable";
+      input.value = currentValue;
+
+      input.addEventListener("blur", () => updateField(span, type, input.value));
+      input.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") {
+          updateField(span, type, input.value);
+        }
+      });
+
+      span.innerHTML = `${type.charAt(0).toUpperCase() + type.slice(1)}: `;
+      span.appendChild(input);
+      input.focus();
+    }
+
+    function updateField(span, type, newValue) {
+      span.innerHTML = `${type.charAt(0).toUpperCase() + type.slice(1)}: ${newValue}`;
+    }
+  </script>
+
+</body>
+</html>

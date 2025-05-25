@@ -1,0 +1,230 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alimento em Rede</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Poppins", sans-serif;
+      background-color: #fff;
+      color: #000;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.5rem 2rem;
+    }
+
+    .logo {
+      font-size: 1.2rem;
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+    }
+
+    .logo img {
+      width: 30px;
+      margin-right: 10px;
+    }
+
+    nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #000;
+      font-weight: 500;
+    }
+
+    .btn-login {
+      background: #000;
+      color: #fff;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      text-decoration: none;
+    }
+
+    .hero {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 4rem 2rem;
+      flex-wrap: wrap;
+    }
+
+    .hero-text {
+      max-width: 500px;
+    }
+
+    .hero-text h1 {
+      font-size: 3rem;
+      line-height: 1.2;
+      margin-bottom: 1rem;
+    }
+
+    .hero-text h1 .highlight {
+      background-color: #9ee2ff;
+      padding: 0 0.5rem;
+      display: inline-block;
+    }
+
+    .hero-text p {
+      font-size: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .hero-text button {
+      padding: 0.75rem 1.5rem;
+      background-color: #000;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      font-weight: bold;
+      cursor: pointer;
+      font-size: 1rem;
+    }
+
+    .hero-img img {
+      max-width: 450px;
+      width: 100%;
+    }
+
+    footer {
+      background: #000;
+      color: #fff;
+      padding: 2rem;
+      margin-top: 3rem;
+    }
+
+    footer .footer-container {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+
+    footer h4 {
+      font-size: 1.2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    footer p {
+      color: #aaa;
+    }
+
+    .social-icons a {
+      margin: 0 10px;
+      display: inline-block;
+      background: #a4ddf3;
+      padding: 10px;
+      border-radius: 6px;
+      color: #1d4ed8;
+      font-size: 18px;
+      transition: all 0.2s ease-in-out;
+    }
+
+    .social-icons a:hover {
+      background: #7dd3fc;
+      transform: scale(1.1);
+      color: #1e40af;
+    }
+
+    .footer-section {
+      margin: 1rem 0;
+    }
+
+    .footer-section ul {
+      list-style: none;
+    }
+
+    .footer-section ul li {
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .hero-text h1 {
+        font-size: 2.2rem;
+      }
+
+      .hero-img {
+        margin-top: 2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="https://cdn-icons-png.flaticon.com/512/859/859270.png" alt="Logo" />
+      Alimento em Rede
+    </div>
+    <nav>
+      <a href="{% url 'levar_perfil' %}">Dados</a>
+      <a href="{% url 'levar_menu' %}">Home</a>
+      <a href="{% url 'levar_sobre' %}">Sobre</a>
+      <a href="{% url 'levar_sobre' %}">Projetos</a>
+      <a href="{% url 'levar_sobre' %}">Como apoiar</a>
+      <a href="{% url 'levar_login' %}" class="btn-login">Login</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h1>
+        Seja um <span class="highlight">amigo</span><br />
+        dessa ação!
+      </h1>
+      <p>Apoie os nossos projetos e nos ajude a aumentar nosso impacto</p>
+      <button>Doe agora!</button>
+    </div>
+    <div class="hero-img">
+      <img src="https://patriciawanderley.adv.br/wp-content/uploads/2022/08/medium-shot-smiley-kids-posing-together-12567.png" alt="Crianças felizes" />
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-container">
+      <div class="footer-section">
+        <h4>Fique ligado!</h4>
+        <p>Nos acompanhe nas redes sociais.</p>
+        <div class="social-icons">
+          <a href="#"><i class="fa-brands fa-facebook"></i></a>
+          <a href="#"><i class="fa-brands fa-instagram"></i></a>
+          <a href="#"><i class="fa-brands fa-twitter"></i></a>
+          <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+        </div>
+      </div>
+      <div class="footer-section">
+        <h4>Projeto</h4>
+        <ul>
+          <li>Sobre nós</li>
+          <li>Fale conosco</li>
+          <li>Suporte</li>
+        </ul>
+      </div>
+      <div class="footer-section">
+        <h4>Termos</h4>
+        <ul>
+          <li>Termos e condições</li>
+          <li>Política de privacidade</li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

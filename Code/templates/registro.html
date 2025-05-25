@@ -1,0 +1,267 @@
+
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login - Alimento em Rede</title>
+
+    <!-- Fontes e ícones -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Poppins", sans-serif;
+        background-color: #fff;
+        color: #000;
+      }
+
+      header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1.5rem 2rem;
+      }
+
+      .logo {
+        font-size: 1.2rem;
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+      }
+
+      .logo img {
+        width: 30px;
+        margin-right: 10px;
+      }
+
+      nav a {
+        margin: 0 1rem;
+        text-decoration: none;
+        color: #000;
+        font-weight: 500;
+      }
+
+      .btn-login {
+        background: #000;
+        color: #fff;
+        padding: 0.5rem 1rem;
+        border-radius: 6px;
+        text-decoration: none;
+      }
+
+      .container {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 3rem 2rem;
+        flex-wrap: wrap;
+      }
+
+      .illustration img {
+        max-width: 350px;
+      }
+
+      .login-form {
+        max-width: 400px;
+        width: 100%;
+      }
+
+      .login-form h2 {
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+      }
+
+      .login-form label {
+        display: block;
+        margin: 1rem 0 0.3rem;
+      }
+
+      .login-form input {
+        width: 100%;
+        padding: 0.6rem;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+      }
+
+      .login-options {
+        margin: 0.8rem 0;
+        display: flex;
+        justify-content: space-between;
+        font-size: 0.9rem;
+      }
+
+      .login-form button {
+        width: 100%;
+        padding: 0.8rem;
+        margin-top: 1rem;
+        background: #000;
+        color: #fff;
+        border: none;
+        border-radius: 6px;
+        font-weight: bold;
+        cursor: pointer;
+      }
+
+      .login-form a {
+        display: block;
+        margin-top: 1rem;
+        font-size: 0.9rem;
+        text-align: center;
+        text-decoration: none;
+        color: #000;
+      }
+
+      footer {
+        background: #000;
+        color: #fff;
+        padding: 2rem;
+        margin-top: 3rem;
+      }
+
+      footer .footer-container {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+      }
+
+      footer h4 {
+        font-size: 1.2rem;
+        margin-bottom: 0.5rem;
+      }
+
+      footer p {
+        color: #aaa;
+      }
+
+      .social-icons a {
+        margin: 0 10px;
+        display: inline-block;
+        background: #a4ddf3;
+        padding: 10px;
+        border-radius: 6px;
+        color: #1d4ed8;
+        font-size: 18px;
+        transition: all 0.2s ease-in-out;
+      }
+
+      .social-icons a:hover {
+        background: #7dd3fc;
+        transform: scale(1.1);
+        color: #1e40af;
+      }
+
+      .footer-section {
+        margin: 1rem 0;
+      }
+
+      .footer-section ul {
+        list-style: none;
+      }
+
+      .footer-section ul li {
+        margin-bottom: 0.5rem;
+        font-size: 0.9rem;
+      }
+
+      .highlight {
+        color: #60a5fa;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <img src="https://cdn-icons-png.flaticon.com/512/859/859270.png" alt="Logo" />
+        Alimento em Rede
+      </div>
+      <nav>
+        <a href="{% url 'levar_perfil' %}">Dados</a>
+        <a href="{% url 'levar_menu' %}">Home</a>
+        <a href="{% url 'levar_sobre' %}">Sobre</a>
+        <a href="{% url 'levar_sobre' %}">Projetos</a>
+        <a href="{% url 'levar_sobre' %}">Como apoiar</a>
+        <a href="{% url 'levar_login' %}" class="btn-login">Login</a>
+      </nav>
+    </header>
+
+    <!-- Parte do corpo atualizada com formulário de registro -->
+<main class="container">
+  <div class="illustration">
+    <img
+      src="https://img.freepik.com/vetores-premium/icone-do-doodle-da-paz-e-da-harmonia_9206-12927.jpg"
+      alt="Ilustração"
+    />
+  </div>
+
+  <div class="login-form">
+    <h2>Registro</h2>
+        
+    
+    <form action="{% url 'listagem_usuarios' %}" method = "post">
+      {% csrf_token %}
+        <label for="nome">Nome</label>
+      <input type="text" id="nome" name="nome" required />
+
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required />
+
+      <label for="senha">Senha</label>
+      <input type="password" id="senha" name="senha" required />
+
+      <label for="confirmar-senha">Confirmar Senha</label>
+      <input type="password" id="confirmar-senha" name="confirmar-senha" required />
+
+      <button type="submit">Registrar</button>
+    </form>
+
+    <a href="{% url 'levar_perfil' %}">Já tem uma conta? Faça login</a>
+  </div>
+</main>
+
+
+    <footer>
+      <div class="footer-container">
+        <div class="footer-section">
+          <h4>Fique ligado!</h4>
+          <p>Nos acompanhe nas redes sociais.</p>
+          <div class="social-icons">
+            <a href="#"><i class="fa-brands fa-facebook"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+          </div>
+        </div>
+        <div class="footer-section">
+          <h4>Projeto</h4>
+          <ul>
+            <li>Sobre nós</li>
+            <li>Fale conosco</li>
+            <li>Suporte</li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h4>Termos</h4>
+          <ul>
+            <li>Termos e condições</li>
+            <li>Política de privacidade</li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
