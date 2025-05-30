@@ -11,6 +11,8 @@
 * [Organização e Disposição das Informações do Projeto](#-organização-e-disposição-das-informações-do-projeto)
 * [Quadro de Atividades no Trello](#-quadro-de-atividades-no-trello)
 * [Vídeo do Protótipo](#-vídeo-do-protótipo)
+* [Quadro Kanban(Trello)](#-quadro-kanban)
+* [Slides da Apresentação(Canva)](#-slides-da-apresentação)
 * [Licença](#licença)
 
 # 📋 DESCRIÇÃO DO PROJETO
@@ -109,6 +111,15 @@ Obs: Clique na imagem para acessar o vídeo.
   </a>
 </p>
 
+# 📋 QUADRO KANBAN
+Você pode acessar nosso quadro Kanban atualizado no Trello clicando no link abaixo:
+
+👉 [Acessar Quadro Kanban]((https://trello.com/invite/b/6816a3ac7f07e4dbd15c90e6/ATTIb49ece6f4006206391591f6e457ebcf997B3BEA4/projeto-alimento-e-rede))
+
+# 📋 SLIDES DA APRESENTAÇÃO
+Os slides utilizados na apresentação do projeto podem ser visualizados no link abaixo:
+
+👉 [Ver Slides da Apresentação (Canva)]((https://www.canva.com/design/DAGoH421VZo/PoLxFpRUbt5iacYw5puhqg/edit?utm_content=DAGoH421VZo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton ))
 
 # LICENÇA
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
